@@ -75,7 +75,7 @@ const XAxis = () => {
                     marginTop: 10,
                 }}
             >
-                Grey
+                Red
             </Text>
             <Text
                 style={{
